@@ -1,4 +1,10 @@
 {
   "name": "VisionCameraExample",
-  "displayName": "VisionCamera Example"
+  "displayName": "VisionCamera Example",
+  "extra": {
+    "eas": {
+      "projectId": "9381e2f5-8b29-444e-b784-0053fda1d018"
+    }
+  },
+  "owner": "powr"
 }
