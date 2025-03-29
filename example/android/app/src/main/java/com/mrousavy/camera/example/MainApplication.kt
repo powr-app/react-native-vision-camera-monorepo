@@ -1,4 +1,4 @@
-package com.mrousavy.camera.example
+package com.powr.camera.example
 import android.content.res.Configuration
 import expo.modules.ApplicationLifecycleDispatcher
 import expo.modules.ReactNativeHostWrapper

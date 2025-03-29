@@ -1,4 +1,4 @@
-package com.mrousavy.camera.example
+package com.powr.camera.example
 import expo.modules.ReactActivityDelegateWrapper
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

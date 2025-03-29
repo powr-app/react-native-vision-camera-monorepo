@@ -1,4 +1,4 @@
-package com.mrousavy.camera.example;
+package com.powr.camera.example;
 
 import android.media.Image;
 import android.util.Log;
